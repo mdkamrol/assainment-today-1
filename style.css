@@ -3,15 +3,13 @@
     width: 100%;
     height: 700px;
 }
-<<<<<<< HEAD
-=======
 .inter-normel {
   font-family: "Inter", sans-serif;
   font-optical-sizing: auto;
   font-style: normal;
 }
 
->>>>>>> a1cd86b46bcc6f0c428d8e3514803f047cac6e1e
+
 
 nav{
     display:flex;
@@ -53,7 +51,6 @@ header nav ul{
     
 }
 
-<<<<<<< HEAD
 .raleway-font {
   font-family: "Raleway", sans-serif;
   font-optical-sizing: auto;
@@ -93,10 +90,51 @@ header nav ul{
 } 
 main{
     background-color: #FFFFFF;
-=======
-.inter-font {
+}
+.inter-font{
  font-family: "Inter", sans-serif;
   font-optical-sizing: auto;
   font-style: normal;
->>>>>>> a1cd86b46bcc6f0c428d8e3514803f047cac6e1e
+}
+.Productive-section{
+    max-width: 1300px;
+    background-color: rgba(78, 71, 255, 0.1);
+    padding:150px;
+    margin:0px auto;
+    border-radius: 50px;
+    height: 100px;
+    
+
+}
+.Productive-abba{
+    display:flex;
+    justify-content: space-between;
+    position: relative;
+    bottom: 100px;
+}
+.Productive-title{
+    text-align: center;
+    font-weight: bold;
+    font-size: 38px;
+    color:rgba(37, 36, 50, 1);
+    position: relative;
+    bottom:100px;
+}
+.all-text{
+    color:#4E47FF;
+    font-weight: bold;
+    font-size: 80px;  
+}
+
+
+.inter-new-font {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+.all-text2{
+    font-size: 20px;
+    color:rgba(0, 0, 0, 0.52);
+    position: relative;
+    bottom:50px;
 }
